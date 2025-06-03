@@ -1,0 +1,1089 @@
+Person,Actual,Predicted,Count
+Caroline van der Plas,Angry,Angry,0
+Caroline van der Plas,Disgust,Angry,0
+Caroline van der Plas,Fear,Angry,0
+Caroline van der Plas,Happy,Angry,0
+Caroline van der Plas,Neutral,Angry,0
+Caroline van der Plas,NeutralNeutral,Angry,0
+Caroline van der Plas,Sad,Angry,0
+Caroline van der Plas,Surprise,Angry,0
+Caroline van der Plas,Angry,Disgust,0
+Caroline van der Plas,Disgust,Disgust,0
+Caroline van der Plas,Fear,Disgust,0
+Caroline van der Plas,Happy,Disgust,0
+Caroline van der Plas,Neutral,Disgust,0
+Caroline van der Plas,NeutralNeutral,Disgust,0
+Caroline van der Plas,Sad,Disgust,0
+Caroline van der Plas,Surprise,Disgust,0
+Caroline van der Plas,Angry,Fear,0
+Caroline van der Plas,Disgust,Fear,0
+Caroline van der Plas,Fear,Fear,0
+Caroline van der Plas,Happy,Fear,0
+Caroline van der Plas,Neutral,Fear,0
+Caroline van der Plas,NeutralNeutral,Fear,0
+Caroline van der Plas,Sad,Fear,0
+Caroline van der Plas,Surprise,Fear,0
+Caroline van der Plas,Angry,Happy,0
+Caroline van der Plas,Disgust,Happy,0
+Caroline van der Plas,Fear,Happy,0
+Caroline van der Plas,Happy,Happy,0
+Caroline van der Plas,Neutral,Happy,0
+Caroline van der Plas,NeutralNeutral,Happy,0
+Caroline van der Plas,Sad,Happy,0
+Caroline van der Plas,Surprise,Happy,0
+Caroline van der Plas,Angry,Neutral,0
+Caroline van der Plas,Disgust,Neutral,0
+Caroline van der Plas,Fear,Neutral,0
+Caroline van der Plas,Happy,Neutral,0
+Caroline van der Plas,Neutral,Neutral,0
+Caroline van der Plas,NeutralNeutral,Neutral,0
+Caroline van der Plas,Sad,Neutral,0
+Caroline van der Plas,Surprise,Neutral,0
+Caroline van der Plas,Angry,NeutralNeutral,0
+Caroline van der Plas,Disgust,NeutralNeutral,0
+Caroline van der Plas,Fear,NeutralNeutral,0
+Caroline van der Plas,Happy,NeutralNeutral,0
+Caroline van der Plas,Neutral,NeutralNeutral,0
+Caroline van der Plas,NeutralNeutral,NeutralNeutral,0
+Caroline van der Plas,Sad,NeutralNeutral,0
+Caroline van der Plas,Surprise,NeutralNeutral,0
+Caroline van der Plas,Angry,Sad,0
+Caroline van der Plas,Disgust,Sad,0
+Caroline van der Plas,Fear,Sad,0
+Caroline van der Plas,Happy,Sad,0
+Caroline van der Plas,Neutral,Sad,0
+Caroline van der Plas,NeutralNeutral,Sad,0
+Caroline van der Plas,Sad,Sad,0
+Caroline van der Plas,Surprise,Sad,0
+Caroline van der Plas,Angry,Surprise,0
+Caroline van der Plas,Disgust,Surprise,0
+Caroline van der Plas,Fear,Surprise,0
+Caroline van der Plas,Happy,Surprise,0
+Caroline van der Plas,Neutral,Surprise,0
+Caroline van der Plas,NeutralNeutral,Surprise,0
+Caroline van der Plas,Sad,Surprise,0
+Caroline van der Plas,Surprise,Surprise,0
+Dilan Yesilgoz,Angry,Angry,0
+Dilan Yesilgoz,Disgust,Angry,0
+Dilan Yesilgoz,Fear,Angry,0
+Dilan Yesilgoz,Happy,Angry,0
+Dilan Yesilgoz,Neutral,Angry,0
+Dilan Yesilgoz,NeutralNeutral,Angry,0
+Dilan Yesilgoz,Sad,Angry,0
+Dilan Yesilgoz,Surprise,Angry,0
+Dilan Yesilgoz,Angry,Disgust,0
+Dilan Yesilgoz,Disgust,Disgust,0
+Dilan Yesilgoz,Fear,Disgust,0
+Dilan Yesilgoz,Happy,Disgust,0
+Dilan Yesilgoz,Neutral,Disgust,0
+Dilan Yesilgoz,NeutralNeutral,Disgust,0
+Dilan Yesilgoz,Sad,Disgust,0
+Dilan Yesilgoz,Surprise,Disgust,0
+Dilan Yesilgoz,Angry,Fear,0
+Dilan Yesilgoz,Disgust,Fear,0
+Dilan Yesilgoz,Fear,Fear,0
+Dilan Yesilgoz,Happy,Fear,0
+Dilan Yesilgoz,Neutral,Fear,0
+Dilan Yesilgoz,NeutralNeutral,Fear,0
+Dilan Yesilgoz,Sad,Fear,0
+Dilan Yesilgoz,Surprise,Fear,0
+Dilan Yesilgoz,Angry,Happy,0
+Dilan Yesilgoz,Disgust,Happy,0
+Dilan Yesilgoz,Fear,Happy,0
+Dilan Yesilgoz,Happy,Happy,0
+Dilan Yesilgoz,Neutral,Happy,0
+Dilan Yesilgoz,NeutralNeutral,Happy,0
+Dilan Yesilgoz,Sad,Happy,0
+Dilan Yesilgoz,Surprise,Happy,0
+Dilan Yesilgoz,Angry,Neutral,0
+Dilan Yesilgoz,Disgust,Neutral,0
+Dilan Yesilgoz,Fear,Neutral,0
+Dilan Yesilgoz,Happy,Neutral,0
+Dilan Yesilgoz,Neutral,Neutral,0
+Dilan Yesilgoz,NeutralNeutral,Neutral,0
+Dilan Yesilgoz,Sad,Neutral,0
+Dilan Yesilgoz,Surprise,Neutral,0
+Dilan Yesilgoz,Angry,NeutralNeutral,0
+Dilan Yesilgoz,Disgust,NeutralNeutral,0
+Dilan Yesilgoz,Fear,NeutralNeutral,0
+Dilan Yesilgoz,Happy,NeutralNeutral,0
+Dilan Yesilgoz,Neutral,NeutralNeutral,0
+Dilan Yesilgoz,NeutralNeutral,NeutralNeutral,0
+Dilan Yesilgoz,Sad,NeutralNeutral,0
+Dilan Yesilgoz,Surprise,NeutralNeutral,0
+Dilan Yesilgoz,Angry,Sad,0
+Dilan Yesilgoz,Disgust,Sad,0
+Dilan Yesilgoz,Fear,Sad,0
+Dilan Yesilgoz,Happy,Sad,0
+Dilan Yesilgoz,Neutral,Sad,0
+Dilan Yesilgoz,NeutralNeutral,Sad,0
+Dilan Yesilgoz,Sad,Sad,0
+Dilan Yesilgoz,Surprise,Sad,0
+Dilan Yesilgoz,Angry,Surprise,0
+Dilan Yesilgoz,Disgust,Surprise,0
+Dilan Yesilgoz,Fear,Surprise,0
+Dilan Yesilgoz,Happy,Surprise,0
+Dilan Yesilgoz,Neutral,Surprise,0
+Dilan Yesilgoz,NeutralNeutral,Surprise,0
+Dilan Yesilgoz,Sad,Surprise,0
+Dilan Yesilgoz,Surprise,Surprise,0
+Edson Olf,Angry,Angry,0
+Edson Olf,Disgust,Angry,0
+Edson Olf,Fear,Angry,0
+Edson Olf,Happy,Angry,0
+Edson Olf,Neutral,Angry,0
+Edson Olf,NeutralNeutral,Angry,0
+Edson Olf,Sad,Angry,0
+Edson Olf,Surprise,Angry,0
+Edson Olf,Angry,Disgust,0
+Edson Olf,Disgust,Disgust,0
+Edson Olf,Fear,Disgust,0
+Edson Olf,Happy,Disgust,0
+Edson Olf,Neutral,Disgust,0
+Edson Olf,NeutralNeutral,Disgust,0
+Edson Olf,Sad,Disgust,0
+Edson Olf,Surprise,Disgust,0
+Edson Olf,Angry,Fear,0
+Edson Olf,Disgust,Fear,0
+Edson Olf,Fear,Fear,0
+Edson Olf,Happy,Fear,0
+Edson Olf,Neutral,Fear,0
+Edson Olf,NeutralNeutral,Fear,0
+Edson Olf,Sad,Fear,0
+Edson Olf,Surprise,Fear,0
+Edson Olf,Angry,Happy,0
+Edson Olf,Disgust,Happy,0
+Edson Olf,Fear,Happy,0
+Edson Olf,Happy,Happy,0
+Edson Olf,Neutral,Happy,0
+Edson Olf,NeutralNeutral,Happy,0
+Edson Olf,Sad,Happy,0
+Edson Olf,Surprise,Happy,0
+Edson Olf,Angry,Neutral,0
+Edson Olf,Disgust,Neutral,0
+Edson Olf,Fear,Neutral,0
+Edson Olf,Happy,Neutral,0
+Edson Olf,Neutral,Neutral,0
+Edson Olf,NeutralNeutral,Neutral,0
+Edson Olf,Sad,Neutral,0
+Edson Olf,Surprise,Neutral,0
+Edson Olf,Angry,NeutralNeutral,0
+Edson Olf,Disgust,NeutralNeutral,0
+Edson Olf,Fear,NeutralNeutral,0
+Edson Olf,Happy,NeutralNeutral,0
+Edson Olf,Neutral,NeutralNeutral,0
+Edson Olf,NeutralNeutral,NeutralNeutral,0
+Edson Olf,Sad,NeutralNeutral,0
+Edson Olf,Surprise,NeutralNeutral,0
+Edson Olf,Angry,Sad,0
+Edson Olf,Disgust,Sad,0
+Edson Olf,Fear,Sad,0
+Edson Olf,Happy,Sad,0
+Edson Olf,Neutral,Sad,0
+Edson Olf,NeutralNeutral,Sad,0
+Edson Olf,Sad,Sad,0
+Edson Olf,Surprise,Sad,0
+Edson Olf,Angry,Surprise,0
+Edson Olf,Disgust,Surprise,0
+Edson Olf,Fear,Surprise,0
+Edson Olf,Happy,Surprise,0
+Edson Olf,Neutral,Surprise,0
+Edson Olf,NeutralNeutral,Surprise,0
+Edson Olf,Sad,Surprise,0
+Edson Olf,Surprise,Surprise,0
+Esther Ouwehand,Angry,Angry,0
+Esther Ouwehand,Disgust,Angry,0
+Esther Ouwehand,Fear,Angry,0
+Esther Ouwehand,Happy,Angry,0
+Esther Ouwehand,Neutral,Angry,0
+Esther Ouwehand,NeutralNeutral,Angry,0
+Esther Ouwehand,Sad,Angry,0
+Esther Ouwehand,Surprise,Angry,0
+Esther Ouwehand,Angry,Disgust,0
+Esther Ouwehand,Disgust,Disgust,0
+Esther Ouwehand,Fear,Disgust,0
+Esther Ouwehand,Happy,Disgust,0
+Esther Ouwehand,Neutral,Disgust,0
+Esther Ouwehand,NeutralNeutral,Disgust,0
+Esther Ouwehand,Sad,Disgust,0
+Esther Ouwehand,Surprise,Disgust,0
+Esther Ouwehand,Angry,Fear,0
+Esther Ouwehand,Disgust,Fear,0
+Esther Ouwehand,Fear,Fear,0
+Esther Ouwehand,Happy,Fear,0
+Esther Ouwehand,Neutral,Fear,0
+Esther Ouwehand,NeutralNeutral,Fear,0
+Esther Ouwehand,Sad,Fear,0
+Esther Ouwehand,Surprise,Fear,0
+Esther Ouwehand,Angry,Happy,0
+Esther Ouwehand,Disgust,Happy,0
+Esther Ouwehand,Fear,Happy,0
+Esther Ouwehand,Happy,Happy,0
+Esther Ouwehand,Neutral,Happy,0
+Esther Ouwehand,NeutralNeutral,Happy,0
+Esther Ouwehand,Sad,Happy,0
+Esther Ouwehand,Surprise,Happy,0
+Esther Ouwehand,Angry,Neutral,0
+Esther Ouwehand,Disgust,Neutral,0
+Esther Ouwehand,Fear,Neutral,0
+Esther Ouwehand,Happy,Neutral,0
+Esther Ouwehand,Neutral,Neutral,0
+Esther Ouwehand,NeutralNeutral,Neutral,0
+Esther Ouwehand,Sad,Neutral,0
+Esther Ouwehand,Surprise,Neutral,0
+Esther Ouwehand,Angry,NeutralNeutral,0
+Esther Ouwehand,Disgust,NeutralNeutral,0
+Esther Ouwehand,Fear,NeutralNeutral,0
+Esther Ouwehand,Happy,NeutralNeutral,0
+Esther Ouwehand,Neutral,NeutralNeutral,0
+Esther Ouwehand,NeutralNeutral,NeutralNeutral,0
+Esther Ouwehand,Sad,NeutralNeutral,0
+Esther Ouwehand,Surprise,NeutralNeutral,0
+Esther Ouwehand,Angry,Sad,0
+Esther Ouwehand,Disgust,Sad,0
+Esther Ouwehand,Fear,Sad,0
+Esther Ouwehand,Happy,Sad,0
+Esther Ouwehand,Neutral,Sad,0
+Esther Ouwehand,NeutralNeutral,Sad,0
+Esther Ouwehand,Sad,Sad,0
+Esther Ouwehand,Surprise,Sad,0
+Esther Ouwehand,Angry,Surprise,0
+Esther Ouwehand,Disgust,Surprise,0
+Esther Ouwehand,Fear,Surprise,0
+Esther Ouwehand,Happy,Surprise,0
+Esther Ouwehand,Neutral,Surprise,0
+Esther Ouwehand,NeutralNeutral,Surprise,0
+Esther Ouwehand,Sad,Surprise,0
+Esther Ouwehand,Surprise,Surprise,0
+Frans Timmermans,Angry,Angry,0
+Frans Timmermans,Disgust,Angry,0
+Frans Timmermans,Fear,Angry,0
+Frans Timmermans,Happy,Angry,0
+Frans Timmermans,Neutral,Angry,0
+Frans Timmermans,NeutralNeutral,Angry,0
+Frans Timmermans,Sad,Angry,0
+Frans Timmermans,Surprise,Angry,0
+Frans Timmermans,Angry,Disgust,0
+Frans Timmermans,Disgust,Disgust,0
+Frans Timmermans,Fear,Disgust,0
+Frans Timmermans,Happy,Disgust,0
+Frans Timmermans,Neutral,Disgust,0
+Frans Timmermans,NeutralNeutral,Disgust,0
+Frans Timmermans,Sad,Disgust,0
+Frans Timmermans,Surprise,Disgust,0
+Frans Timmermans,Angry,Fear,0
+Frans Timmermans,Disgust,Fear,0
+Frans Timmermans,Fear,Fear,0
+Frans Timmermans,Happy,Fear,0
+Frans Timmermans,Neutral,Fear,0
+Frans Timmermans,NeutralNeutral,Fear,0
+Frans Timmermans,Sad,Fear,0
+Frans Timmermans,Surprise,Fear,0
+Frans Timmermans,Angry,Happy,0
+Frans Timmermans,Disgust,Happy,0
+Frans Timmermans,Fear,Happy,0
+Frans Timmermans,Happy,Happy,0
+Frans Timmermans,Neutral,Happy,0
+Frans Timmermans,NeutralNeutral,Happy,0
+Frans Timmermans,Sad,Happy,0
+Frans Timmermans,Surprise,Happy,0
+Frans Timmermans,Angry,Neutral,0
+Frans Timmermans,Disgust,Neutral,0
+Frans Timmermans,Fear,Neutral,0
+Frans Timmermans,Happy,Neutral,0
+Frans Timmermans,Neutral,Neutral,0
+Frans Timmermans,NeutralNeutral,Neutral,0
+Frans Timmermans,Sad,Neutral,0
+Frans Timmermans,Surprise,Neutral,0
+Frans Timmermans,Angry,NeutralNeutral,0
+Frans Timmermans,Disgust,NeutralNeutral,0
+Frans Timmermans,Fear,NeutralNeutral,0
+Frans Timmermans,Happy,NeutralNeutral,0
+Frans Timmermans,Neutral,NeutralNeutral,0
+Frans Timmermans,NeutralNeutral,NeutralNeutral,0
+Frans Timmermans,Sad,NeutralNeutral,0
+Frans Timmermans,Surprise,NeutralNeutral,0
+Frans Timmermans,Angry,Sad,0
+Frans Timmermans,Disgust,Sad,0
+Frans Timmermans,Fear,Sad,0
+Frans Timmermans,Happy,Sad,0
+Frans Timmermans,Neutral,Sad,0
+Frans Timmermans,NeutralNeutral,Sad,0
+Frans Timmermans,Sad,Sad,0
+Frans Timmermans,Surprise,Sad,0
+Frans Timmermans,Angry,Surprise,0
+Frans Timmermans,Disgust,Surprise,0
+Frans Timmermans,Fear,Surprise,0
+Frans Timmermans,Happy,Surprise,0
+Frans Timmermans,Neutral,Surprise,0
+Frans Timmermans,NeutralNeutral,Surprise,0
+Frans Timmermans,Sad,Surprise,0
+Frans Timmermans,Surprise,Surprise,0
+Geert Wilders,Angry,Angry,0
+Geert Wilders,Disgust,Angry,0
+Geert Wilders,Fear,Angry,0
+Geert Wilders,Happy,Angry,0
+Geert Wilders,Neutral,Angry,0
+Geert Wilders,NeutralNeutral,Angry,0
+Geert Wilders,Sad,Angry,0
+Geert Wilders,Surprise,Angry,0
+Geert Wilders,Angry,Disgust,0
+Geert Wilders,Disgust,Disgust,0
+Geert Wilders,Fear,Disgust,0
+Geert Wilders,Happy,Disgust,0
+Geert Wilders,Neutral,Disgust,0
+Geert Wilders,NeutralNeutral,Disgust,0
+Geert Wilders,Sad,Disgust,0
+Geert Wilders,Surprise,Disgust,0
+Geert Wilders,Angry,Fear,0
+Geert Wilders,Disgust,Fear,0
+Geert Wilders,Fear,Fear,0
+Geert Wilders,Happy,Fear,0
+Geert Wilders,Neutral,Fear,0
+Geert Wilders,NeutralNeutral,Fear,0
+Geert Wilders,Sad,Fear,0
+Geert Wilders,Surprise,Fear,0
+Geert Wilders,Angry,Happy,0
+Geert Wilders,Disgust,Happy,0
+Geert Wilders,Fear,Happy,0
+Geert Wilders,Happy,Happy,0
+Geert Wilders,Neutral,Happy,0
+Geert Wilders,NeutralNeutral,Happy,0
+Geert Wilders,Sad,Happy,0
+Geert Wilders,Surprise,Happy,0
+Geert Wilders,Angry,Neutral,0
+Geert Wilders,Disgust,Neutral,0
+Geert Wilders,Fear,Neutral,0
+Geert Wilders,Happy,Neutral,0
+Geert Wilders,Neutral,Neutral,0
+Geert Wilders,NeutralNeutral,Neutral,0
+Geert Wilders,Sad,Neutral,0
+Geert Wilders,Surprise,Neutral,0
+Geert Wilders,Angry,NeutralNeutral,0
+Geert Wilders,Disgust,NeutralNeutral,0
+Geert Wilders,Fear,NeutralNeutral,0
+Geert Wilders,Happy,NeutralNeutral,0
+Geert Wilders,Neutral,NeutralNeutral,0
+Geert Wilders,NeutralNeutral,NeutralNeutral,0
+Geert Wilders,Sad,NeutralNeutral,0
+Geert Wilders,Surprise,NeutralNeutral,0
+Geert Wilders,Angry,Sad,0
+Geert Wilders,Disgust,Sad,0
+Geert Wilders,Fear,Sad,0
+Geert Wilders,Happy,Sad,0
+Geert Wilders,Neutral,Sad,0
+Geert Wilders,NeutralNeutral,Sad,0
+Geert Wilders,Sad,Sad,0
+Geert Wilders,Surprise,Sad,0
+Geert Wilders,Angry,Surprise,0
+Geert Wilders,Disgust,Surprise,0
+Geert Wilders,Fear,Surprise,0
+Geert Wilders,Happy,Surprise,0
+Geert Wilders,Neutral,Surprise,0
+Geert Wilders,NeutralNeutral,Surprise,0
+Geert Wilders,Sad,Surprise,0
+Geert Wilders,Surprise,Surprise,0
+Henri Bontebal,Angry,Angry,0
+Henri Bontebal,Disgust,Angry,0
+Henri Bontebal,Fear,Angry,0
+Henri Bontebal,Happy,Angry,0
+Henri Bontebal,Neutral,Angry,0
+Henri Bontebal,NeutralNeutral,Angry,0
+Henri Bontebal,Sad,Angry,0
+Henri Bontebal,Surprise,Angry,0
+Henri Bontebal,Angry,Disgust,0
+Henri Bontebal,Disgust,Disgust,0
+Henri Bontebal,Fear,Disgust,0
+Henri Bontebal,Happy,Disgust,0
+Henri Bontebal,Neutral,Disgust,0
+Henri Bontebal,NeutralNeutral,Disgust,0
+Henri Bontebal,Sad,Disgust,0
+Henri Bontebal,Surprise,Disgust,0
+Henri Bontebal,Angry,Fear,0
+Henri Bontebal,Disgust,Fear,0
+Henri Bontebal,Fear,Fear,0
+Henri Bontebal,Happy,Fear,0
+Henri Bontebal,Neutral,Fear,0
+Henri Bontebal,NeutralNeutral,Fear,0
+Henri Bontebal,Sad,Fear,0
+Henri Bontebal,Surprise,Fear,0
+Henri Bontebal,Angry,Happy,0
+Henri Bontebal,Disgust,Happy,0
+Henri Bontebal,Fear,Happy,0
+Henri Bontebal,Happy,Happy,0
+Henri Bontebal,Neutral,Happy,0
+Henri Bontebal,NeutralNeutral,Happy,0
+Henri Bontebal,Sad,Happy,0
+Henri Bontebal,Surprise,Happy,0
+Henri Bontebal,Angry,Neutral,0
+Henri Bontebal,Disgust,Neutral,0
+Henri Bontebal,Fear,Neutral,0
+Henri Bontebal,Happy,Neutral,0
+Henri Bontebal,Neutral,Neutral,0
+Henri Bontebal,NeutralNeutral,Neutral,0
+Henri Bontebal,Sad,Neutral,0
+Henri Bontebal,Surprise,Neutral,0
+Henri Bontebal,Angry,NeutralNeutral,0
+Henri Bontebal,Disgust,NeutralNeutral,0
+Henri Bontebal,Fear,NeutralNeutral,0
+Henri Bontebal,Happy,NeutralNeutral,0
+Henri Bontebal,Neutral,NeutralNeutral,0
+Henri Bontebal,NeutralNeutral,NeutralNeutral,0
+Henri Bontebal,Sad,NeutralNeutral,0
+Henri Bontebal,Surprise,NeutralNeutral,0
+Henri Bontebal,Angry,Sad,0
+Henri Bontebal,Disgust,Sad,0
+Henri Bontebal,Fear,Sad,0
+Henri Bontebal,Happy,Sad,0
+Henri Bontebal,Neutral,Sad,0
+Henri Bontebal,NeutralNeutral,Sad,0
+Henri Bontebal,Sad,Sad,0
+Henri Bontebal,Surprise,Sad,0
+Henri Bontebal,Angry,Surprise,0
+Henri Bontebal,Disgust,Surprise,0
+Henri Bontebal,Fear,Surprise,0
+Henri Bontebal,Happy,Surprise,0
+Henri Bontebal,Neutral,Surprise,0
+Henri Bontebal,NeutralNeutral,Surprise,0
+Henri Bontebal,Sad,Surprise,0
+Henri Bontebal,Surprise,Surprise,0
+Joost Eerdmans,Angry,Angry,0
+Joost Eerdmans,Disgust,Angry,0
+Joost Eerdmans,Fear,Angry,0
+Joost Eerdmans,Happy,Angry,0
+Joost Eerdmans,Neutral,Angry,0
+Joost Eerdmans,NeutralNeutral,Angry,0
+Joost Eerdmans,Sad,Angry,0
+Joost Eerdmans,Surprise,Angry,0
+Joost Eerdmans,Angry,Disgust,0
+Joost Eerdmans,Disgust,Disgust,0
+Joost Eerdmans,Fear,Disgust,0
+Joost Eerdmans,Happy,Disgust,0
+Joost Eerdmans,Neutral,Disgust,0
+Joost Eerdmans,NeutralNeutral,Disgust,0
+Joost Eerdmans,Sad,Disgust,0
+Joost Eerdmans,Surprise,Disgust,0
+Joost Eerdmans,Angry,Fear,0
+Joost Eerdmans,Disgust,Fear,0
+Joost Eerdmans,Fear,Fear,0
+Joost Eerdmans,Happy,Fear,0
+Joost Eerdmans,Neutral,Fear,0
+Joost Eerdmans,NeutralNeutral,Fear,0
+Joost Eerdmans,Sad,Fear,0
+Joost Eerdmans,Surprise,Fear,0
+Joost Eerdmans,Angry,Happy,0
+Joost Eerdmans,Disgust,Happy,0
+Joost Eerdmans,Fear,Happy,0
+Joost Eerdmans,Happy,Happy,0
+Joost Eerdmans,Neutral,Happy,0
+Joost Eerdmans,NeutralNeutral,Happy,0
+Joost Eerdmans,Sad,Happy,0
+Joost Eerdmans,Surprise,Happy,0
+Joost Eerdmans,Angry,Neutral,0
+Joost Eerdmans,Disgust,Neutral,0
+Joost Eerdmans,Fear,Neutral,0
+Joost Eerdmans,Happy,Neutral,0
+Joost Eerdmans,Neutral,Neutral,0
+Joost Eerdmans,NeutralNeutral,Neutral,0
+Joost Eerdmans,Sad,Neutral,0
+Joost Eerdmans,Surprise,Neutral,0
+Joost Eerdmans,Angry,NeutralNeutral,0
+Joost Eerdmans,Disgust,NeutralNeutral,0
+Joost Eerdmans,Fear,NeutralNeutral,0
+Joost Eerdmans,Happy,NeutralNeutral,0
+Joost Eerdmans,Neutral,NeutralNeutral,0
+Joost Eerdmans,NeutralNeutral,NeutralNeutral,0
+Joost Eerdmans,Sad,NeutralNeutral,0
+Joost Eerdmans,Surprise,NeutralNeutral,0
+Joost Eerdmans,Angry,Sad,0
+Joost Eerdmans,Disgust,Sad,0
+Joost Eerdmans,Fear,Sad,0
+Joost Eerdmans,Happy,Sad,0
+Joost Eerdmans,Neutral,Sad,0
+Joost Eerdmans,NeutralNeutral,Sad,0
+Joost Eerdmans,Sad,Sad,0
+Joost Eerdmans,Surprise,Sad,0
+Joost Eerdmans,Angry,Surprise,0
+Joost Eerdmans,Disgust,Surprise,0
+Joost Eerdmans,Fear,Surprise,0
+Joost Eerdmans,Happy,Surprise,0
+Joost Eerdmans,Neutral,Surprise,0
+Joost Eerdmans,NeutralNeutral,Surprise,0
+Joost Eerdmans,Sad,Surprise,0
+Joost Eerdmans,Surprise,Surprise,0
+Kees van der Staaij,Angry,Angry,0
+Kees van der Staaij,Disgust,Angry,0
+Kees van der Staaij,Fear,Angry,0
+Kees van der Staaij,Happy,Angry,0
+Kees van der Staaij,Neutral,Angry,0
+Kees van der Staaij,NeutralNeutral,Angry,0
+Kees van der Staaij,Sad,Angry,0
+Kees van der Staaij,Surprise,Angry,0
+Kees van der Staaij,Angry,Disgust,0
+Kees van der Staaij,Disgust,Disgust,0
+Kees van der Staaij,Fear,Disgust,0
+Kees van der Staaij,Happy,Disgust,0
+Kees van der Staaij,Neutral,Disgust,0
+Kees van der Staaij,NeutralNeutral,Disgust,0
+Kees van der Staaij,Sad,Disgust,0
+Kees van der Staaij,Surprise,Disgust,0
+Kees van der Staaij,Angry,Fear,0
+Kees van der Staaij,Disgust,Fear,0
+Kees van der Staaij,Fear,Fear,0
+Kees van der Staaij,Happy,Fear,0
+Kees van der Staaij,Neutral,Fear,0
+Kees van der Staaij,NeutralNeutral,Fear,0
+Kees van der Staaij,Sad,Fear,0
+Kees van der Staaij,Surprise,Fear,0
+Kees van der Staaij,Angry,Happy,0
+Kees van der Staaij,Disgust,Happy,0
+Kees van der Staaij,Fear,Happy,0
+Kees van der Staaij,Happy,Happy,0
+Kees van der Staaij,Neutral,Happy,0
+Kees van der Staaij,NeutralNeutral,Happy,0
+Kees van der Staaij,Sad,Happy,0
+Kees van der Staaij,Surprise,Happy,0
+Kees van der Staaij,Angry,Neutral,0
+Kees van der Staaij,Disgust,Neutral,0
+Kees van der Staaij,Fear,Neutral,0
+Kees van der Staaij,Happy,Neutral,0
+Kees van der Staaij,Neutral,Neutral,0
+Kees van der Staaij,NeutralNeutral,Neutral,0
+Kees van der Staaij,Sad,Neutral,0
+Kees van der Staaij,Surprise,Neutral,0
+Kees van der Staaij,Angry,NeutralNeutral,0
+Kees van der Staaij,Disgust,NeutralNeutral,0
+Kees van der Staaij,Fear,NeutralNeutral,0
+Kees van der Staaij,Happy,NeutralNeutral,0
+Kees van der Staaij,Neutral,NeutralNeutral,0
+Kees van der Staaij,NeutralNeutral,NeutralNeutral,0
+Kees van der Staaij,Sad,NeutralNeutral,0
+Kees van der Staaij,Surprise,NeutralNeutral,0
+Kees van der Staaij,Angry,Sad,0
+Kees van der Staaij,Disgust,Sad,0
+Kees van der Staaij,Fear,Sad,0
+Kees van der Staaij,Happy,Sad,0
+Kees van der Staaij,Neutral,Sad,0
+Kees van der Staaij,NeutralNeutral,Sad,0
+Kees van der Staaij,Sad,Sad,0
+Kees van der Staaij,Surprise,Sad,0
+Kees van der Staaij,Angry,Surprise,0
+Kees van der Staaij,Disgust,Surprise,0
+Kees van der Staaij,Fear,Surprise,0
+Kees van der Staaij,Happy,Surprise,0
+Kees van der Staaij,Neutral,Surprise,0
+Kees van der Staaij,NeutralNeutral,Surprise,0
+Kees van der Staaij,Sad,Surprise,0
+Kees van der Staaij,Surprise,Surprise,0
+Laurens Dassen,Angry,Angry,0
+Laurens Dassen,Disgust,Angry,0
+Laurens Dassen,Fear,Angry,0
+Laurens Dassen,Happy,Angry,0
+Laurens Dassen,Neutral,Angry,0
+Laurens Dassen,NeutralNeutral,Angry,0
+Laurens Dassen,Sad,Angry,0
+Laurens Dassen,Surprise,Angry,0
+Laurens Dassen,Angry,Disgust,0
+Laurens Dassen,Disgust,Disgust,0
+Laurens Dassen,Fear,Disgust,0
+Laurens Dassen,Happy,Disgust,0
+Laurens Dassen,Neutral,Disgust,0
+Laurens Dassen,NeutralNeutral,Disgust,0
+Laurens Dassen,Sad,Disgust,0
+Laurens Dassen,Surprise,Disgust,0
+Laurens Dassen,Angry,Fear,0
+Laurens Dassen,Disgust,Fear,0
+Laurens Dassen,Fear,Fear,0
+Laurens Dassen,Happy,Fear,0
+Laurens Dassen,Neutral,Fear,0
+Laurens Dassen,NeutralNeutral,Fear,0
+Laurens Dassen,Sad,Fear,0
+Laurens Dassen,Surprise,Fear,0
+Laurens Dassen,Angry,Happy,0
+Laurens Dassen,Disgust,Happy,0
+Laurens Dassen,Fear,Happy,0
+Laurens Dassen,Happy,Happy,0
+Laurens Dassen,Neutral,Happy,0
+Laurens Dassen,NeutralNeutral,Happy,0
+Laurens Dassen,Sad,Happy,0
+Laurens Dassen,Surprise,Happy,0
+Laurens Dassen,Angry,Neutral,0
+Laurens Dassen,Disgust,Neutral,0
+Laurens Dassen,Fear,Neutral,0
+Laurens Dassen,Happy,Neutral,0
+Laurens Dassen,Neutral,Neutral,0
+Laurens Dassen,NeutralNeutral,Neutral,0
+Laurens Dassen,Sad,Neutral,0
+Laurens Dassen,Surprise,Neutral,0
+Laurens Dassen,Angry,NeutralNeutral,0
+Laurens Dassen,Disgust,NeutralNeutral,0
+Laurens Dassen,Fear,NeutralNeutral,0
+Laurens Dassen,Happy,NeutralNeutral,0
+Laurens Dassen,Neutral,NeutralNeutral,0
+Laurens Dassen,NeutralNeutral,NeutralNeutral,0
+Laurens Dassen,Sad,NeutralNeutral,0
+Laurens Dassen,Surprise,NeutralNeutral,0
+Laurens Dassen,Angry,Sad,0
+Laurens Dassen,Disgust,Sad,0
+Laurens Dassen,Fear,Sad,0
+Laurens Dassen,Happy,Sad,0
+Laurens Dassen,Neutral,Sad,0
+Laurens Dassen,NeutralNeutral,Sad,0
+Laurens Dassen,Sad,Sad,0
+Laurens Dassen,Surprise,Sad,0
+Laurens Dassen,Angry,Surprise,0
+Laurens Dassen,Disgust,Surprise,0
+Laurens Dassen,Fear,Surprise,0
+Laurens Dassen,Happy,Surprise,0
+Laurens Dassen,Neutral,Surprise,0
+Laurens Dassen,NeutralNeutral,Surprise,0
+Laurens Dassen,Sad,Surprise,0
+Laurens Dassen,Surprise,Surprise,0
+Lilian Marijnissen,Angry,Angry,0
+Lilian Marijnissen,Disgust,Angry,0
+Lilian Marijnissen,Fear,Angry,0
+Lilian Marijnissen,Happy,Angry,0
+Lilian Marijnissen,Neutral,Angry,0
+Lilian Marijnissen,NeutralNeutral,Angry,0
+Lilian Marijnissen,Sad,Angry,0
+Lilian Marijnissen,Surprise,Angry,0
+Lilian Marijnissen,Angry,Disgust,0
+Lilian Marijnissen,Disgust,Disgust,0
+Lilian Marijnissen,Fear,Disgust,0
+Lilian Marijnissen,Happy,Disgust,0
+Lilian Marijnissen,Neutral,Disgust,0
+Lilian Marijnissen,NeutralNeutral,Disgust,0
+Lilian Marijnissen,Sad,Disgust,0
+Lilian Marijnissen,Surprise,Disgust,0
+Lilian Marijnissen,Angry,Fear,0
+Lilian Marijnissen,Disgust,Fear,0
+Lilian Marijnissen,Fear,Fear,0
+Lilian Marijnissen,Happy,Fear,0
+Lilian Marijnissen,Neutral,Fear,0
+Lilian Marijnissen,NeutralNeutral,Fear,0
+Lilian Marijnissen,Sad,Fear,0
+Lilian Marijnissen,Surprise,Fear,0
+Lilian Marijnissen,Angry,Happy,0
+Lilian Marijnissen,Disgust,Happy,0
+Lilian Marijnissen,Fear,Happy,0
+Lilian Marijnissen,Happy,Happy,0
+Lilian Marijnissen,Neutral,Happy,0
+Lilian Marijnissen,NeutralNeutral,Happy,0
+Lilian Marijnissen,Sad,Happy,0
+Lilian Marijnissen,Surprise,Happy,0
+Lilian Marijnissen,Angry,Neutral,0
+Lilian Marijnissen,Disgust,Neutral,0
+Lilian Marijnissen,Fear,Neutral,0
+Lilian Marijnissen,Happy,Neutral,0
+Lilian Marijnissen,Neutral,Neutral,0
+Lilian Marijnissen,NeutralNeutral,Neutral,0
+Lilian Marijnissen,Sad,Neutral,0
+Lilian Marijnissen,Surprise,Neutral,0
+Lilian Marijnissen,Angry,NeutralNeutral,0
+Lilian Marijnissen,Disgust,NeutralNeutral,0
+Lilian Marijnissen,Fear,NeutralNeutral,0
+Lilian Marijnissen,Happy,NeutralNeutral,0
+Lilian Marijnissen,Neutral,NeutralNeutral,0
+Lilian Marijnissen,NeutralNeutral,NeutralNeutral,0
+Lilian Marijnissen,Sad,NeutralNeutral,0
+Lilian Marijnissen,Surprise,NeutralNeutral,0
+Lilian Marijnissen,Angry,Sad,0
+Lilian Marijnissen,Disgust,Sad,0
+Lilian Marijnissen,Fear,Sad,0
+Lilian Marijnissen,Happy,Sad,0
+Lilian Marijnissen,Neutral,Sad,0
+Lilian Marijnissen,NeutralNeutral,Sad,0
+Lilian Marijnissen,Sad,Sad,0
+Lilian Marijnissen,Surprise,Sad,0
+Lilian Marijnissen,Angry,Surprise,0
+Lilian Marijnissen,Disgust,Surprise,0
+Lilian Marijnissen,Fear,Surprise,0
+Lilian Marijnissen,Happy,Surprise,0
+Lilian Marijnissen,Neutral,Surprise,0
+Lilian Marijnissen,NeutralNeutral,Surprise,0
+Lilian Marijnissen,Sad,Surprise,0
+Lilian Marijnissen,Surprise,Surprise,0
+Mirjam Bikker,Angry,Angry,0
+Mirjam Bikker,Disgust,Angry,0
+Mirjam Bikker,Fear,Angry,0
+Mirjam Bikker,Happy,Angry,0
+Mirjam Bikker,Neutral,Angry,0
+Mirjam Bikker,NeutralNeutral,Angry,0
+Mirjam Bikker,Sad,Angry,0
+Mirjam Bikker,Surprise,Angry,0
+Mirjam Bikker,Angry,Disgust,0
+Mirjam Bikker,Disgust,Disgust,0
+Mirjam Bikker,Fear,Disgust,0
+Mirjam Bikker,Happy,Disgust,0
+Mirjam Bikker,Neutral,Disgust,0
+Mirjam Bikker,NeutralNeutral,Disgust,0
+Mirjam Bikker,Sad,Disgust,0
+Mirjam Bikker,Surprise,Disgust,0
+Mirjam Bikker,Angry,Fear,0
+Mirjam Bikker,Disgust,Fear,0
+Mirjam Bikker,Fear,Fear,0
+Mirjam Bikker,Happy,Fear,0
+Mirjam Bikker,Neutral,Fear,0
+Mirjam Bikker,NeutralNeutral,Fear,0
+Mirjam Bikker,Sad,Fear,0
+Mirjam Bikker,Surprise,Fear,0
+Mirjam Bikker,Angry,Happy,0
+Mirjam Bikker,Disgust,Happy,0
+Mirjam Bikker,Fear,Happy,0
+Mirjam Bikker,Happy,Happy,0
+Mirjam Bikker,Neutral,Happy,0
+Mirjam Bikker,NeutralNeutral,Happy,0
+Mirjam Bikker,Sad,Happy,0
+Mirjam Bikker,Surprise,Happy,0
+Mirjam Bikker,Angry,Neutral,0
+Mirjam Bikker,Disgust,Neutral,0
+Mirjam Bikker,Fear,Neutral,0
+Mirjam Bikker,Happy,Neutral,0
+Mirjam Bikker,Neutral,Neutral,0
+Mirjam Bikker,NeutralNeutral,Neutral,0
+Mirjam Bikker,Sad,Neutral,0
+Mirjam Bikker,Surprise,Neutral,0
+Mirjam Bikker,Angry,NeutralNeutral,0
+Mirjam Bikker,Disgust,NeutralNeutral,0
+Mirjam Bikker,Fear,NeutralNeutral,0
+Mirjam Bikker,Happy,NeutralNeutral,0
+Mirjam Bikker,Neutral,NeutralNeutral,0
+Mirjam Bikker,NeutralNeutral,NeutralNeutral,0
+Mirjam Bikker,Sad,NeutralNeutral,0
+Mirjam Bikker,Surprise,NeutralNeutral,0
+Mirjam Bikker,Angry,Sad,0
+Mirjam Bikker,Disgust,Sad,0
+Mirjam Bikker,Fear,Sad,0
+Mirjam Bikker,Happy,Sad,0
+Mirjam Bikker,Neutral,Sad,0
+Mirjam Bikker,NeutralNeutral,Sad,0
+Mirjam Bikker,Sad,Sad,0
+Mirjam Bikker,Surprise,Sad,0
+Mirjam Bikker,Angry,Surprise,0
+Mirjam Bikker,Disgust,Surprise,0
+Mirjam Bikker,Fear,Surprise,0
+Mirjam Bikker,Happy,Surprise,0
+Mirjam Bikker,Neutral,Surprise,0
+Mirjam Bikker,NeutralNeutral,Surprise,0
+Mirjam Bikker,Sad,Surprise,0
+Mirjam Bikker,Surprise,Surprise,0
+Pieter Omtzigt,Angry,Angry,0
+Pieter Omtzigt,Disgust,Angry,0
+Pieter Omtzigt,Fear,Angry,0
+Pieter Omtzigt,Happy,Angry,0
+Pieter Omtzigt,Neutral,Angry,0
+Pieter Omtzigt,NeutralNeutral,Angry,0
+Pieter Omtzigt,Sad,Angry,0
+Pieter Omtzigt,Surprise,Angry,0
+Pieter Omtzigt,Angry,Disgust,0
+Pieter Omtzigt,Disgust,Disgust,0
+Pieter Omtzigt,Fear,Disgust,0
+Pieter Omtzigt,Happy,Disgust,0
+Pieter Omtzigt,Neutral,Disgust,0
+Pieter Omtzigt,NeutralNeutral,Disgust,0
+Pieter Omtzigt,Sad,Disgust,0
+Pieter Omtzigt,Surprise,Disgust,0
+Pieter Omtzigt,Angry,Fear,0
+Pieter Omtzigt,Disgust,Fear,0
+Pieter Omtzigt,Fear,Fear,0
+Pieter Omtzigt,Happy,Fear,0
+Pieter Omtzigt,Neutral,Fear,0
+Pieter Omtzigt,NeutralNeutral,Fear,0
+Pieter Omtzigt,Sad,Fear,0
+Pieter Omtzigt,Surprise,Fear,0
+Pieter Omtzigt,Angry,Happy,0
+Pieter Omtzigt,Disgust,Happy,0
+Pieter Omtzigt,Fear,Happy,0
+Pieter Omtzigt,Happy,Happy,0
+Pieter Omtzigt,Neutral,Happy,0
+Pieter Omtzigt,NeutralNeutral,Happy,0
+Pieter Omtzigt,Sad,Happy,0
+Pieter Omtzigt,Surprise,Happy,0
+Pieter Omtzigt,Angry,Neutral,0
+Pieter Omtzigt,Disgust,Neutral,0
+Pieter Omtzigt,Fear,Neutral,0
+Pieter Omtzigt,Happy,Neutral,0
+Pieter Omtzigt,Neutral,Neutral,0
+Pieter Omtzigt,NeutralNeutral,Neutral,0
+Pieter Omtzigt,Sad,Neutral,0
+Pieter Omtzigt,Surprise,Neutral,0
+Pieter Omtzigt,Angry,NeutralNeutral,0
+Pieter Omtzigt,Disgust,NeutralNeutral,0
+Pieter Omtzigt,Fear,NeutralNeutral,0
+Pieter Omtzigt,Happy,NeutralNeutral,0
+Pieter Omtzigt,Neutral,NeutralNeutral,0
+Pieter Omtzigt,NeutralNeutral,NeutralNeutral,0
+Pieter Omtzigt,Sad,NeutralNeutral,0
+Pieter Omtzigt,Surprise,NeutralNeutral,0
+Pieter Omtzigt,Angry,Sad,0
+Pieter Omtzigt,Disgust,Sad,0
+Pieter Omtzigt,Fear,Sad,0
+Pieter Omtzigt,Happy,Sad,0
+Pieter Omtzigt,Neutral,Sad,0
+Pieter Omtzigt,NeutralNeutral,Sad,0
+Pieter Omtzigt,Sad,Sad,0
+Pieter Omtzigt,Surprise,Sad,0
+Pieter Omtzigt,Angry,Surprise,0
+Pieter Omtzigt,Disgust,Surprise,0
+Pieter Omtzigt,Fear,Surprise,0
+Pieter Omtzigt,Happy,Surprise,0
+Pieter Omtzigt,Neutral,Surprise,0
+Pieter Omtzigt,NeutralNeutral,Surprise,0
+Pieter Omtzigt,Sad,Surprise,0
+Pieter Omtzigt,Surprise,Surprise,0
+Rob Jetten,Angry,Angry,0
+Rob Jetten,Disgust,Angry,0
+Rob Jetten,Fear,Angry,0
+Rob Jetten,Happy,Angry,0
+Rob Jetten,Neutral,Angry,0
+Rob Jetten,NeutralNeutral,Angry,0
+Rob Jetten,Sad,Angry,0
+Rob Jetten,Surprise,Angry,0
+Rob Jetten,Angry,Disgust,0
+Rob Jetten,Disgust,Disgust,0
+Rob Jetten,Fear,Disgust,0
+Rob Jetten,Happy,Disgust,0
+Rob Jetten,Neutral,Disgust,0
+Rob Jetten,NeutralNeutral,Disgust,0
+Rob Jetten,Sad,Disgust,0
+Rob Jetten,Surprise,Disgust,0
+Rob Jetten,Angry,Fear,0
+Rob Jetten,Disgust,Fear,0
+Rob Jetten,Fear,Fear,0
+Rob Jetten,Happy,Fear,0
+Rob Jetten,Neutral,Fear,0
+Rob Jetten,NeutralNeutral,Fear,0
+Rob Jetten,Sad,Fear,0
+Rob Jetten,Surprise,Fear,0
+Rob Jetten,Angry,Happy,0
+Rob Jetten,Disgust,Happy,0
+Rob Jetten,Fear,Happy,0
+Rob Jetten,Happy,Happy,0
+Rob Jetten,Neutral,Happy,0
+Rob Jetten,NeutralNeutral,Happy,0
+Rob Jetten,Sad,Happy,0
+Rob Jetten,Surprise,Happy,0
+Rob Jetten,Angry,Neutral,0
+Rob Jetten,Disgust,Neutral,0
+Rob Jetten,Fear,Neutral,0
+Rob Jetten,Happy,Neutral,0
+Rob Jetten,Neutral,Neutral,0
+Rob Jetten,NeutralNeutral,Neutral,0
+Rob Jetten,Sad,Neutral,0
+Rob Jetten,Surprise,Neutral,0
+Rob Jetten,Angry,NeutralNeutral,0
+Rob Jetten,Disgust,NeutralNeutral,0
+Rob Jetten,Fear,NeutralNeutral,0
+Rob Jetten,Happy,NeutralNeutral,0
+Rob Jetten,Neutral,NeutralNeutral,0
+Rob Jetten,NeutralNeutral,NeutralNeutral,0
+Rob Jetten,Sad,NeutralNeutral,0
+Rob Jetten,Surprise,NeutralNeutral,0
+Rob Jetten,Angry,Sad,0
+Rob Jetten,Disgust,Sad,0
+Rob Jetten,Fear,Sad,0
+Rob Jetten,Happy,Sad,0
+Rob Jetten,Neutral,Sad,0
+Rob Jetten,NeutralNeutral,Sad,0
+Rob Jetten,Sad,Sad,0
+Rob Jetten,Surprise,Sad,0
+Rob Jetten,Angry,Surprise,0
+Rob Jetten,Disgust,Surprise,0
+Rob Jetten,Fear,Surprise,0
+Rob Jetten,Happy,Surprise,0
+Rob Jetten,Neutral,Surprise,0
+Rob Jetten,NeutralNeutral,Surprise,0
+Rob Jetten,Sad,Surprise,0
+Rob Jetten,Surprise,Surprise,0
+Stephan van Baarle,Angry,Angry,0
+Stephan van Baarle,Disgust,Angry,0
+Stephan van Baarle,Fear,Angry,0
+Stephan van Baarle,Happy,Angry,0
+Stephan van Baarle,Neutral,Angry,0
+Stephan van Baarle,NeutralNeutral,Angry,0
+Stephan van Baarle,Sad,Angry,0
+Stephan van Baarle,Surprise,Angry,0
+Stephan van Baarle,Angry,Disgust,0
+Stephan van Baarle,Disgust,Disgust,0
+Stephan van Baarle,Fear,Disgust,0
+Stephan van Baarle,Happy,Disgust,0
+Stephan van Baarle,Neutral,Disgust,0
+Stephan van Baarle,NeutralNeutral,Disgust,0
+Stephan van Baarle,Sad,Disgust,0
+Stephan van Baarle,Surprise,Disgust,0
+Stephan van Baarle,Angry,Fear,0
+Stephan van Baarle,Disgust,Fear,0
+Stephan van Baarle,Fear,Fear,0
+Stephan van Baarle,Happy,Fear,0
+Stephan van Baarle,Neutral,Fear,0
+Stephan van Baarle,NeutralNeutral,Fear,0
+Stephan van Baarle,Sad,Fear,0
+Stephan van Baarle,Surprise,Fear,0
+Stephan van Baarle,Angry,Happy,0
+Stephan van Baarle,Disgust,Happy,0
+Stephan van Baarle,Fear,Happy,0
+Stephan van Baarle,Happy,Happy,0
+Stephan van Baarle,Neutral,Happy,0
+Stephan van Baarle,NeutralNeutral,Happy,0
+Stephan van Baarle,Sad,Happy,0
+Stephan van Baarle,Surprise,Happy,0
+Stephan van Baarle,Angry,Neutral,0
+Stephan van Baarle,Disgust,Neutral,0
+Stephan van Baarle,Fear,Neutral,0
+Stephan van Baarle,Happy,Neutral,0
+Stephan van Baarle,Neutral,Neutral,0
+Stephan van Baarle,NeutralNeutral,Neutral,0
+Stephan van Baarle,Sad,Neutral,0
+Stephan van Baarle,Surprise,Neutral,0
+Stephan van Baarle,Angry,NeutralNeutral,0
+Stephan van Baarle,Disgust,NeutralNeutral,0
+Stephan van Baarle,Fear,NeutralNeutral,0
+Stephan van Baarle,Happy,NeutralNeutral,0
+Stephan van Baarle,Neutral,NeutralNeutral,0
+Stephan van Baarle,NeutralNeutral,NeutralNeutral,0
+Stephan van Baarle,Sad,NeutralNeutral,0
+Stephan van Baarle,Surprise,NeutralNeutral,0
+Stephan van Baarle,Angry,Sad,0
+Stephan van Baarle,Disgust,Sad,0
+Stephan van Baarle,Fear,Sad,0
+Stephan van Baarle,Happy,Sad,0
+Stephan van Baarle,Neutral,Sad,0
+Stephan van Baarle,NeutralNeutral,Sad,0
+Stephan van Baarle,Sad,Sad,0
+Stephan van Baarle,Surprise,Sad,0
+Stephan van Baarle,Angry,Surprise,0
+Stephan van Baarle,Disgust,Surprise,0
+Stephan van Baarle,Fear,Surprise,0
+Stephan van Baarle,Happy,Surprise,0
+Stephan van Baarle,Neutral,Surprise,0
+Stephan van Baarle,NeutralNeutral,Surprise,0
+Stephan van Baarle,Sad,Surprise,0
+Stephan van Baarle,Surprise,Surprise,0
+Thierry Baudet,Angry,Angry,0
+Thierry Baudet,Disgust,Angry,0
+Thierry Baudet,Fear,Angry,0
+Thierry Baudet,Happy,Angry,0
+Thierry Baudet,Neutral,Angry,0
+Thierry Baudet,NeutralNeutral,Angry,0
+Thierry Baudet,Sad,Angry,0
+Thierry Baudet,Surprise,Angry,0
+Thierry Baudet,Angry,Disgust,0
+Thierry Baudet,Disgust,Disgust,0
+Thierry Baudet,Fear,Disgust,0
+Thierry Baudet,Happy,Disgust,0
+Thierry Baudet,Neutral,Disgust,0
+Thierry Baudet,NeutralNeutral,Disgust,0
+Thierry Baudet,Sad,Disgust,0
+Thierry Baudet,Surprise,Disgust,0
+Thierry Baudet,Angry,Fear,0
+Thierry Baudet,Disgust,Fear,0
+Thierry Baudet,Fear,Fear,0
+Thierry Baudet,Happy,Fear,0
+Thierry Baudet,Neutral,Fear,0
+Thierry Baudet,NeutralNeutral,Fear,0
+Thierry Baudet,Sad,Fear,0
+Thierry Baudet,Surprise,Fear,0
+Thierry Baudet,Angry,Happy,0
+Thierry Baudet,Disgust,Happy,0
+Thierry Baudet,Fear,Happy,0
+Thierry Baudet,Happy,Happy,0
+Thierry Baudet,Neutral,Happy,0
+Thierry Baudet,NeutralNeutral,Happy,0
+Thierry Baudet,Sad,Happy,0
+Thierry Baudet,Surprise,Happy,0
+Thierry Baudet,Angry,Neutral,0
+Thierry Baudet,Disgust,Neutral,0
+Thierry Baudet,Fear,Neutral,0
+Thierry Baudet,Happy,Neutral,0
+Thierry Baudet,Neutral,Neutral,0
+Thierry Baudet,NeutralNeutral,Neutral,0
+Thierry Baudet,Sad,Neutral,0
+Thierry Baudet,Surprise,Neutral,0
+Thierry Baudet,Angry,NeutralNeutral,0
+Thierry Baudet,Disgust,NeutralNeutral,0
+Thierry Baudet,Fear,NeutralNeutral,0
+Thierry Baudet,Happy,NeutralNeutral,0
+Thierry Baudet,Neutral,NeutralNeutral,0
+Thierry Baudet,NeutralNeutral,NeutralNeutral,0
+Thierry Baudet,Sad,NeutralNeutral,0
+Thierry Baudet,Surprise,NeutralNeutral,0
+Thierry Baudet,Angry,Sad,0
+Thierry Baudet,Disgust,Sad,0
+Thierry Baudet,Fear,Sad,0
+Thierry Baudet,Happy,Sad,0
+Thierry Baudet,Neutral,Sad,0
+Thierry Baudet,NeutralNeutral,Sad,0
+Thierry Baudet,Sad,Sad,0
+Thierry Baudet,Surprise,Sad,0
+Thierry Baudet,Angry,Surprise,0
+Thierry Baudet,Disgust,Surprise,0
+Thierry Baudet,Fear,Surprise,0
+Thierry Baudet,Happy,Surprise,0
+Thierry Baudet,Neutral,Surprise,0
+Thierry Baudet,NeutralNeutral,Surprise,0
+Thierry Baudet,Sad,Surprise,0
+Thierry Baudet,Surprise,Surprise,0
+Wybren van Haga,Angry,Angry,0
+Wybren van Haga,Disgust,Angry,0
+Wybren van Haga,Fear,Angry,0
+Wybren van Haga,Happy,Angry,0
+Wybren van Haga,Neutral,Angry,0
+Wybren van Haga,NeutralNeutral,Angry,0
+Wybren van Haga,Sad,Angry,0
+Wybren van Haga,Surprise,Angry,0
+Wybren van Haga,Angry,Disgust,0
+Wybren van Haga,Disgust,Disgust,0
+Wybren van Haga,Fear,Disgust,0
+Wybren van Haga,Happy,Disgust,0
+Wybren van Haga,Neutral,Disgust,0
+Wybren van Haga,NeutralNeutral,Disgust,0
+Wybren van Haga,Sad,Disgust,0
+Wybren van Haga,Surprise,Disgust,0
+Wybren van Haga,Angry,Fear,0
+Wybren van Haga,Disgust,Fear,0
+Wybren van Haga,Fear,Fear,0
+Wybren van Haga,Happy,Fear,0
+Wybren van Haga,Neutral,Fear,0
+Wybren van Haga,NeutralNeutral,Fear,0
+Wybren van Haga,Sad,Fear,0
+Wybren van Haga,Surprise,Fear,0
+Wybren van Haga,Angry,Happy,0
+Wybren van Haga,Disgust,Happy,0
+Wybren van Haga,Fear,Happy,0
+Wybren van Haga,Happy,Happy,0
+Wybren van Haga,Neutral,Happy,0
+Wybren van Haga,NeutralNeutral,Happy,0
+Wybren van Haga,Sad,Happy,0
+Wybren van Haga,Surprise,Happy,0
+Wybren van Haga,Angry,Neutral,0
+Wybren van Haga,Disgust,Neutral,0
+Wybren van Haga,Fear,Neutral,0
+Wybren van Haga,Happy,Neutral,0
+Wybren van Haga,Neutral,Neutral,0
+Wybren van Haga,NeutralNeutral,Neutral,0
+Wybren van Haga,Sad,Neutral,0
+Wybren van Haga,Surprise,Neutral,0
+Wybren van Haga,Angry,NeutralNeutral,0
+Wybren van Haga,Disgust,NeutralNeutral,0
+Wybren van Haga,Fear,NeutralNeutral,0
+Wybren van Haga,Happy,NeutralNeutral,0
+Wybren van Haga,Neutral,NeutralNeutral,0
+Wybren van Haga,NeutralNeutral,NeutralNeutral,0
+Wybren van Haga,Sad,NeutralNeutral,0
+Wybren van Haga,Surprise,NeutralNeutral,0
+Wybren van Haga,Angry,Sad,0
+Wybren van Haga,Disgust,Sad,0
+Wybren van Haga,Fear,Sad,0
+Wybren van Haga,Happy,Sad,0
+Wybren van Haga,Neutral,Sad,0
+Wybren van Haga,NeutralNeutral,Sad,0
+Wybren van Haga,Sad,Sad,0
+Wybren van Haga,Surprise,Sad,0
+Wybren van Haga,Angry,Surprise,0
+Wybren van Haga,Disgust,Surprise,0
+Wybren van Haga,Fear,Surprise,0
+Wybren van Haga,Happy,Surprise,0
+Wybren van Haga,Neutral,Surprise,0
+Wybren van Haga,NeutralNeutral,Surprise,0
+Wybren van Haga,Sad,Surprise,0
+Wybren van Haga,Surprise,Surprise,0
